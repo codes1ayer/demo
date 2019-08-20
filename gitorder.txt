@@ -1,0 +1,7 @@
+git status //查看本地状态
+git add xxx//将文件装入暂存区//用.可以代替所有文件
+git commit -m ""//提交此文件 -m加入一个自定义信息
+git config --global user.name/user.email //设置用户邮箱和名字。
+git log //显示操作日志
+git show xxx//显示指定id的log信息
+reset xxxx//撤回指定log
